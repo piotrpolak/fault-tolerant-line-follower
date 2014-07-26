@@ -3,6 +3,8 @@ fault-tolerant-line-follower
 
 Khepera3 robot software.
 
+Live demo: http://www.youtube.com/watch?v=raQ_id-nk2U
+
 Robot description
 -----------------
 The robot follows continuous path, avoids simple obstacles and continues its way even if the path is broken (only on the straight sections). The robots stops after a certain period of time/distance of going out of the line (meaning the path has finished).
