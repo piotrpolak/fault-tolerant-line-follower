@@ -72,4 +72,4 @@ Software components
 * Khepera.py - the Khepera API, uses Comm.py class
 * RobotLogic.py - this class contains robot's logic, the main loop
 * Software dependences
-* PyBluez - Python Bluetooth bindings - http://org.csail.mit.edu/pybluez/
+* PyBluez - Python Bluetooth bindings - https://pypi.org/project/PyBluez/
